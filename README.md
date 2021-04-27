@@ -22,10 +22,12 @@ Datasets Used
 - all.goalkeepers .csv
 - all.table.csv 
 - matches.csv
-- all.players 
+- all.players.csv 
 	
 Breakdown of tasks :
 - GitHub Admin
 - Getting/Uploading/Cleaning data
 - Analysis on the overall data (groupby)
 - Graphing/plotting the data
+- Presentation
+- Conclusions of research
