@@ -4,7 +4,7 @@ Project 1 Contributors
 - Al Burroughs
 - Albe Eteme
 - Jane Kim
-- Chidozie Nwagho
+- Chidozie Nwagbo
 
 
 Project Title:Goalkeepers performance vs. Team winning percentage in MLS
