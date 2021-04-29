@@ -21,7 +21,6 @@ Research questions
 Datasets Used
 - all.goalkeepers .csv
 - all.table.csv 
-- matches.csv
 - all.players.csv 
 	
 Breakdown of tasks :
