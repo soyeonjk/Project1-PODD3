@@ -31,3 +31,15 @@ Breakdown of tasks :
 - Graphing/plotting the data
 - Presentation
 - Conclusions of research
+
+6-8 Graphs: 
+2 Bar Graph showing top 10 Goalkeepers Names & Save % (one for goalkeepers, one for players)
+1 Bar Graph showing the top 10 Goalkeepers and the teams/club they are playing for.
+
+1 Bar graph showing top 10 Goalkeepers and their Teams/club’s average league standings/position
+
+Mean on teams win %  and save % 
+
+Bar graph on the goalies that didn’t have much game time but averaging were good players
+1 Bar Graph averaging every player from each year 
+1 Scatter plot with both offense and defense 
