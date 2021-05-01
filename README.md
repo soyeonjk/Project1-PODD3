@@ -7,7 +7,7 @@ Project 1 Contributors
 - Chidozie Nwagbo
 
 
-Project Title : Goalkeepers performance in Soccer Team winning
+Project Title : Goalkeeper’s performance and its effect on the team/clubs winning percentage
 
 
 Project Description:
