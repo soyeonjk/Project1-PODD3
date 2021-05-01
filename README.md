@@ -20,8 +20,6 @@ Research questions
 
 Datasets Used
 - all.goalkeepers .csv
-- all.table.csv 
-- all.players.csv 
 	
 Breakdown of tasks :
 - GitHub Admin
@@ -32,10 +30,5 @@ Breakdown of tasks :
 - Conclusions of research
 
 Graphs Presented: 
-- 2 Bar Graph showing top 10 Goalkeepers Names & Save % (one for goalkeepers, one for players)
-- 1 Bar Graph showing the top 10 Goalkeepers and the teams/club they are playing for.
-- 1 Bar graph showing top 10 Goalkeepers and their Teams/club’s average league standings/position
-- Mean on teams win %  and save % 
-- 1 Bar graph on the goalies that didn’t have much game time but averaging were good players
-- 1 Bar Graph averaging every player from each year 
-- 1 Scatter plot with both offense and defense 
+- 2 Bar Graph showing Minutes played by each player vs. their overall win% & loss%
+- 4 Scatter plots showing Win% and Score% & Average Shots Against vs Win%
